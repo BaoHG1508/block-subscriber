@@ -1,0 +1,10 @@
+/Users/nobody1/Work/q3x/solder-rust/stream-core/target/debug/deps/libkaigan-18ff6d61ebccc1a1.rmeta: /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/lib.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/mod.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/prefix_string.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/prefix_vec.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/remainder_str.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/remainder_vec.rs
+
+/Users/nobody1/Work/q3x/solder-rust/stream-core/target/debug/deps/kaigan-18ff6d61ebccc1a1.d: /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/lib.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/mod.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/prefix_string.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/prefix_vec.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/remainder_str.rs /Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/remainder_vec.rs
+
+/Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/lib.rs:
+/Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/mod.rs:
+/Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/prefix_string.rs:
+/Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/prefix_vec.rs:
+/Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/remainder_str.rs:
+/Users/nobody1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaigan-0.2.6/src/types/remainder_vec.rs:

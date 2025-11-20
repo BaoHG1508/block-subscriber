@@ -1,0 +1,1 @@
+{"rustc":4723136837156968084,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[14356756983585797420,"build_script_build",false,13079771256383794948]],"local":[{"RerunIfChanged":{"output":"debug/build/yellowstone-grpc-proto-17ab1c316f639d23/output","paths":["proto/geyser.proto","proto"]}}],"rustflags":[],"config":0,"compile_kind":0}
