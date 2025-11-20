@@ -1,0 +1,8 @@
+[source]
+endpoint = "https://your-solana-rpc-endpoint.com"
+x-token = "your-x-token-here"
+subscriber-name = "block-subscriber"
+
+[buffer]
+sources-channel-size = 100
+
